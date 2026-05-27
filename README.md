@@ -1,4 +1,4 @@
-# Studio-Comparativ-al-Algoriitmilor-de-Sortare
+# Studiu-Comparativ-al-Algoriitmilor-de-Sortare
 Acest proiect este o aplicație de performanță care compară 5 algoritmi clasici de sortare pe diverse seturi de date. Scopul este de a demonstra diferența de eficiență între complexitățile $O(n^2)$ și $O(n \log n)$.
 
 Algoritmi Implementați 
